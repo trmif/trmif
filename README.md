@@ -13,5 +13,4 @@
   <a href="https://discord.gg/pTvQKaFvZP"><img width="32px" alt="discrod" title="discord"src="https://raw.githubusercontent.com/trmif/trmif/8b672db9609b8e57cba6c9baafbb17a742df3b74/discord.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/tmifur" alt="instagram" title="instagram"><img width="32px" src="https://raw.githubusercontent.com/trmif/trmif/00be95e02308f771fcba63278e2fcb21ec564e28/instagram.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
