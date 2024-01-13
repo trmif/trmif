@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/trmif/trmif/cfe485f09db64f93ec046022f3cf7d1359adf286/assets/trmif.svg" alt="Timur Mif" /></a>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=PT+Sans+Bold&size=20&center=true&pause=300&vCenter=true&multiline=false&random=true&width=435&color=647dff&lines=Saint-Petersburg;FrolovInR;Science;Developing;Moscow;ItEx;Math;Ethnogeopolitics;CS;239;HSE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Nabla&size=20&center=true&pause=300&vCenter=true&multiline=false&random=true&width=435&color=647dff&lines=Saint-Petersburg;FrolovInR;Science;Developing;Moscow;ItEx;Math;Ethnogeopolitics;CS;239;HSE" alt="Typing SVG" />
 </p>
 
 <!-- Social icons section -->
