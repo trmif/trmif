@@ -3,7 +3,7 @@ name: Generate Snake Game
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs at midnight every day
+    - cron: '22 07 * * *' # Runs at midnight every day
 
 jobs:
   snake_game:
