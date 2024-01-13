@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/trmif/trmif/1c0efdafb34bfeb6e159ed814a2c8d621d9ab596/trmif.svg" alt="Timur Mif" /></a>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=PT+Sans+Bold&center=true&pause=1000&vCenter=true&multiline=false&random=true&width=435&color=647dff&lines=Scientist+and+developer+from+Saint-P.;CoFounder+and+CTO+of+FrolovInR;3%2B+years+of+coding+experience;HSE+student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=PT+Sans+Bold&size=20&center=true&pause=300&vCenter=true&multiline=false&random=true&width=435&color=ffffff&lines=Saint-Petersburg;FrolovInR;Science;Developing;Moscow;ItEx;Math;Ethnogeopolitics;CS;239;HSE" alt="Typing SVG" />
 </p>
 
 <!-- Social icons section -->
@@ -14,3 +14,13 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/tmifur" alt="instagram" title="instagram"><img width="32px" src="https://raw.githubusercontent.com/trmif/trmif/00be95e02308f771fcba63278e2fcb21ec564e28/instagram.svg"/></a>
 </p>
+
+<p align="center" style>
+  <img src="https://streak-stats.demolab.com?user=trmif&theme=discord-old-blurple&border_radius=7.7&date_format=j%20M%5B%20Y%5D&card_width=150&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trmif/trmif/main/dist/github-snake.svg" alt="GitHub Snake Game" />
+</p>
+
+
