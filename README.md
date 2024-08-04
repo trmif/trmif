@@ -15,7 +15,7 @@
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Nabla&size=26&center=true&pause=300&vCenter=true&multiline=false&random=true&width=435&color=647dff&lines=Saint-Petersburg;FrolovInR;Science;Developing;Moscow;ItEx;Math;Ethnogeopolitics;CS;239;HSE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Nabla&size=26&center=true&pause=300&vCenter=true&multiline=false&random=true&width=435&color=647dff&lines=Saint-Petersburg;FrolovInR;Moscow;Math;CS;239;HSE" alt="Typing SVG" />
 </p>
 
 
