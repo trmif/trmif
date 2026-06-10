@@ -9,13 +9,13 @@
 
 <p align="center">
   <a href="https://github.com/trmif">
-    <img src="https://raw.githubusercontent.com/trmif/trmif/cfe485f09db64f93ec046022f3cf7d1359adf286/assets/trmif.svg" alt="Timur Mif" /></a>
+    <img src="https://raw.githubusercontent.com/trmif/trmif/cfe485f09db64f93ec046022f3cf7d1359adf286/assets/trmif.svg" alt="Timur Miftakhutdinov" /></a>
 </p>
 
 
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Nabla&size=26&center=true&pause=300&vCenter=true&multiline=false&random=true&width=435&color=647dff&lines=Saint-Petersburg;FrolovInR;Moscow;Math;CS;239;HSE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Nabla&size=26&center=true&pause=300&vCenter=true&multiline=false&random=true&width=435&color=647dff&lines=Saint-Petersburg;Moscow;Math;RecSys;T-Bank;Blender;239;HSE" alt="Typing SVG" />
 </p>
 
 
