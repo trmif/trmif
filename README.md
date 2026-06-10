@@ -1,6 +1,6 @@
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://t.me/trmif"><img width="32px" alt="telegram" title="telegram" src="https://raw.githubusercontent.com/trmif/trmif/a9ea22d388a1ba1d92028628f5624f6aa2800c7a/telegram.svg"/></a>
+  <a href="https://t.me/trmifwork"><img width="32px" alt="telegram" title="telegram" src="https://raw.githubusercontent.com/trmif/trmif/a9ea22d388a1ba1d92028628f5624f6aa2800c7a/telegram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/pTvQKaFvZP"><img width="32px" alt="discrod" title="discord"src="https://raw.githubusercontent.com/trmif/trmif/8b672db9609b8e57cba6c9baafbb17a742df3b74/discord.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
